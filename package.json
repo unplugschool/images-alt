@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.md",
   "scripts": {
-    "start": "reveal-md index.md --watch",
+    "start": "reveal-md readme.md --watch",
     "prebuild": "rimraf dist",
-    "build": "reveal-md index.md --static dist"
+    "build": "reveal-md readme.md --static dist"
   },
   "keywords": [],
   "author": "",
