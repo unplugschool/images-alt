@@ -46,8 +46,15 @@
 ## (1) Is this image interactive?
 
 - It's a *functional* image
-- Describe the action to be taken
-- Use action phrasing
+- Describe the action or result
+
+-
+
+![Example of image as logo](img/functional1.png)
+
+-
+
+![Example of image as print icon](img/functional2.png)
 
 -
 
@@ -61,11 +68,35 @@
 
 -
 
+![Example of icons and labels](img/informative1.png)
+
+-
+
+![Example of illustration](img/informative2.png)
+
+-
+
+![Example of image transmitting an emotion](img/informative3.png)
+
+-
+
 ## (3) No function and no content?
 
 - It's is a *decorative* image
 - Don't provide alt text: `<img alt="">`
 - Screen readers will skip completely
+
+-
+
+![Example of border image](img/decorative1.png)
+
+-
+
+![Example of image described by surrounding text](img/decorative2.png)
+
+-
+
+![Example of image as logo](img/decorative3.png)
 
 ---
 
