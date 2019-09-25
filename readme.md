@@ -1,4 +1,4 @@
-## ⚡ Accessible Images 101 ⚡
+## ⚡ Image Alt Text 101 ⚡
 
 **Ed Rivas**
 
@@ -6,7 +6,7 @@
 
 ---
 
-# 💡 Image concepts
+# 💡 Concepts
 
 -
 
@@ -33,7 +33,7 @@
 
 ---
 
-# 👍🏻 How to write good alt text
+# 🧭 Guide
 
 -
 
@@ -57,13 +57,14 @@
 - Describe the meaning and purpose
 - Avoid literal descriptions
 - No need to start with "Picture..." or "Photo..."
+- Surrounding context might be enough
 
 -
 
 ## (3) No function and no content?
 
 - It's is a *decorative* image
-- Leave `alt` empty
+- Don't provide alt text: `<img alt="">`
 - Screen readers will skip completely
 
 ---
